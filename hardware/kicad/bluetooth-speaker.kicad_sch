@@ -4354,7 +4354,7 @@
 		)
 		(uuid "f132b5ec-fe33-40c1-8caa-ef9acc09520f")
 	)
-	(text_box "Check for the IO availabilities"
+	(text_box "Check for the IO availabilitiess"
 		(exclude_from_sim no)
 		(at 243.586 47.752 0)
 		(size 18.288 6.858)
